@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 I'm Tanmay, 3rd year Undergraduate at NSUT Delhi, diving deep into the world of Software Development <br/>
+👋 I'm Tanmay, final year Undergraduate at NSUT Delhi, diving deep into the world of Software Development <br/>
 
 💻 With a love for programming, I specialize in crafting innovative web applications that blend functionality with an elegant user experience <br/>
 
